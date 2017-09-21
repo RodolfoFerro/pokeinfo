@@ -4,8 +4,8 @@
 
 This is an [Atom](https://atom.io/) package to provide Pokémon's info of a selected word (in case it is a Pokémon).
 
-![Word to look for. ](https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/poke.png)
-![Response in case it is a Pokémon. ](https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/data.png)
+![Word to look for. ](https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/poke.png =250x)
+![Response in case it is a Pokémon. ](https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/data.png =250x)
 
 
 ## Usage 💻
