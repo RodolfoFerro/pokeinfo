@@ -4,8 +4,8 @@
 
 This is an [Atom](https://atom.io/) package to provide Pokémon's info of a selected word (in case it is a Pokémon).
 
-<img src="https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/poke.png" width="40%">
-<img src="https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/data.png" width="40%">
+<img src="https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/poke.png" width="60%">
+<img src="https://github.com/RodolfoFerro/pokeinfo/blob/master/imgs/data.png" width="60%">
 
 
 ## Usage 💻
