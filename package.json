@@ -2,13 +2,13 @@
   "name": "pokeinfo",
   "main": "./lib/pokeinfo",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom package to provide Pokémon's info of a selected word (in case it is a Pokémon).",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "pokeinfo:toggle"
   },
-  "repository": "https://github.com/atom/pokeinfo",
+  "repository": "https://github.com/RodolfoFerro/pokeinfo",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
