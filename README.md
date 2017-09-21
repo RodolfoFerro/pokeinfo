@@ -1,2 +1,5 @@
-# pokeinfo
+# pokeinfo package
+
 Atom package to provide Pokémon's info of a selected word (in case it is a Pokémon).
+
+![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

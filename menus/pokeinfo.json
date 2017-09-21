@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pokeinfo",
+        "command": "pokeinfo:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pokeinfo",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pokeinfo:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
