@@ -1,10 +1,9 @@
 {
   "name": "pokeinfo",
   "main": "./lib/pokeinfo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package to provide Pokémon's info of a selected word (in case it is a Pokémon).",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "pokeinfo:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
